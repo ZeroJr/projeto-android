@@ -33,6 +33,7 @@ body {
 
 a.externo::after {
     content: '\00A0\1F517';
+    color: black;
 }
 
 p {
@@ -181,7 +182,7 @@ aside ul {
     columns: 2;
     list-style-type: '\2714\00A0';
     list-style-position: inside;
-    padding-right: 20px;
+    padding-right: 40px;
 }
 
 aside ul li abbr {
